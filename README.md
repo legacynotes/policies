@@ -1,2 +1,3 @@
-# policies
-Privacy policy, terms and conditions etc.
+# LegacyNotes Policies
+
+Unsere Datenschutztichtlinie, AGB etc.

@@ -152,7 +152,7 @@ LegacyNotes ist berechtigt, jederzeit nach ihrem alleinigen Belieben einzelne Be
 
 ## 12. Datenschutz
 
-LegacyNotes legt grossen Wert auf den Schutz der persönlichen Daten des Nutzer und nimmt deshalb das Thema Datenschutz sehr ernst. Die Vereinbarungen bezüglich der Bearbeitung von Daten sind in der [Datenschutzrichtlinie](/info/716/) von LegacyNotes enthalten. Die Datenschutzrichtlinie bildet einen integrierenden Bestandteil dieser AGB.
+LegacyNotes legt grossen Wert auf den Schutz der persönlichen Daten des Nutzer und nimmt deshalb das Thema Datenschutz sehr ernst. Die Informationen bezüglich der Bearbeitung von Daten sind in der [Datenschutzrichtlinie](/info/716/) von LegacyNotes enthalten.
 
 ## 13. Schlussbestimmungen
 

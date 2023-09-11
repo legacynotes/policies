@@ -150,7 +150,7 @@ LegacyNotes est en droit, à sa seule discrétion et à tout moment, de supprime
 
 ## 12. Protection des données
 
-LegacyNotes attache une grande importance à la protection des données personnelles de l'utilisateur et prend la question de la protection des données très au sérieux. Les accords concernant le traitement des données sont contenus dans la [politique de confidentialité](/info/716) de LegacyNotes. La politique de confidentialité fait partie intégrante des présentes CG.
+LegacyNotes attache une grande importance à la protection des données personnelles de l'utilisateur et prend la question de la protection des données très au sérieux. Les infos concernant le traitement des données sont contenus dans la [politique de confidentialité](/info/716) de LegacyNotes.
 
 ## 13. Dispositions finales
 
